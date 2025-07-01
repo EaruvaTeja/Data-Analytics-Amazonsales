@@ -44,7 +44,7 @@ To analyze and visualize Amazon sales data in order to:
 
 ## 🔍 Key Analyses
 
-1. **Basic Statistics**
+1. **Statistics**
    - Count, Mean, Median, Mode, Standard Deviation
 2. **Data Cleaning**
    - Removed duplicates
