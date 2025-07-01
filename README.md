@@ -93,4 +93,4 @@ To analyze and visualize Amazon sales data in order to:
 ## 🧑‍💻 Author
 
 **Earuva Teja**  
-B.Tech CSE | Data Analyst Intern | Simplilearn IBM Certified
+B.Tech CSE | Data Analyst Intern | Inno Byte Services
