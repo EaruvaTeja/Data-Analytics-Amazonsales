@@ -76,8 +76,8 @@ To analyze and visualize Amazon sales data in order to:
 📦 Amazon-Sales-EDA/
 ├── 📜 project_notebook.ipynb      # Main analysis notebook
 ├── 📄 README.md                   # Project documentation (this file)
-├── 📂 data/
-│   └── Amazon Sale Report.csv     # Source dataset
+├── 📂 Amazon Sale Report.csv
+├── 📄 Project.Doc
 ```
 
 ---
